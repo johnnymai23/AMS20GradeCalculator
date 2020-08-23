@@ -1,4 +1,4 @@
-#Mady by: John Mai
+#Made by: John Mai
 #Date: 8/23/2020
 #Project Description: In my AMS20 Linear Algebra class, our overall grade was based on
 #the highest of the following FOUR options below. I've created a program to calculate
